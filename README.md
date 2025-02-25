@@ -19,7 +19,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11 Pro
+- Windows 11 Pro (23H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -31,25 +31,48 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/31839a08-decf-491f-a712-86916584388a)
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Intake:  This is where a ticket is created. Users can submit tickets through various channels like the web portal, email, or API. Once a ticket is created, it’s automatically logged into the system and assigned a unique ID for tracking.
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/user-attachments/assets/8378fafc-e439-4bda-95e8-69c283279bd5)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assignment and Communication:   After a ticket is created, it needs to be assigned to the appropriate agent or team responsible for handling it. Proper assignment ensures accountability and helps streamline the resolution process.
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/669b5272-c9cd-4919-8a57-00fc47d577a6)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+Working the Issue: The assigned agent or team works on resolving the issue. This stage involves diagnosing the problem, communicating with relevant parties, and taking necessary actions to resolve the ticket.
+  
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/3ab2c446-836f-40cf-b874-a3997b41e1d1)
+
+
+
+Resolution: Once the issue is resolved, the ticket is updated, and the end user is informed. The ticket status is then changed to "resolved" or "closed."
